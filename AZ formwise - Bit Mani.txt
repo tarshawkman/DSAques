@@ -1,0 +1,37 @@
+Cyclic-
+
+XOR World — https://atcoder.jp/contests/abc121/tasks/abc121_d
+Counting Bits — https://cses.fi/problemset/task/1146
+Maximum Number That Sum of the Prices Is Less Than or Equal to K — https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/
+
+Contribution on bit-
+
+XXOR — https://atcoder.jp/contests/abc117/tasks/abc117_d
+I hate Matrix Construction — https://atcoder.jp/contests/abc164/tasks/abc164_f
+NR2 - Bhagat The Bit Man — https://www.spoj.com/problems/NR2/
+
+Operation decoding-
+
+Magic Formulas — https://codeforces.com/problemset/problem/424/C
+Number of Excellent Pairs — https://leetcode.com/problems/number-of-excellent-pairs/description/
+XOR Matching — https://atcoder.jp/contests/abc126/tasks/abc126_f
+
+MSB to LSB or LSB to MSB-
+
+Bits — https://codeforces.com/problemset/problem/484/A
+Little Girl and Maximum XOR — https://codeforces.com/problemset/problem/276/D
+Minimum Operations to Form Subsequence With Target Sum — https://leetcode.com/problems/minimum-operations-to-form-subsequence-with-target-sum/description/
+
+Mixed-
+
+Mikasa — https://codeforces.com/problemset/problem/1554/C
+Ehab the Xorcist — https://codeforces.com/problemset/problem/1325/D
+Xor Sum 4 — https://atcoder.jp/contests/abc147/tasks/abc147_d
+Triples with Bitwise AND Equal To Zero — https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/description/
+The Brand New Function — https://codeforces.com/problemset/problem/243/A
+Xor Pyramid Peak — https://cses.fi/problemset/task/2419
+Number of Subarrays With AND Value of K — https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/description/
+Find Subarray With Bitwise OR Closest to K — https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/description/
+Points and Powers of Two — https://codeforces.com/problemset/problem/988/D
+Find Longest Awesome Substring — https://leetcode.com/problems/find-longest-awesome-substring/description/
+AND Product — https://www.hackerrank.com/challenges/and-product/problem

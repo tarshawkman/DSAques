@@ -1,0 +1,43 @@
+Bit trie-
+
+Maximum XOR subarray — https://marisaoj.com/problem/240
+Shorten the Array — https://codeforces.com/contest/2093/problem/G
+Sausage Maximization — https://codeforces.com/problemset/problem/282/E
+XOR Inverse — https://codeforces.com/contest/1416/problem/C
+Maximum Subarray XOR with Bounded Range — https://leetcode.com/problems/maximum-subarray-xor-with-bounded-range/description/
+
+String trie-
+
+Prefix queries — https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/prefix-queries-3-2c111491/
+Query On Strings — https://www.codechef.com/problems/NPLFLF
+Good Substrings — https://codeforces.com/problemset/problem/271/D
+Palindrome Pairs — https://leetcode.com/problems/palindrome-pairs/description/
+Prefix and Suffix Search — https://leetcode.com/problems/prefix-and-suffix-search/description/
+
+Mixed-
+
+Compare string — https://marisaoj.com/problem/244
+A Lot of Games — https://codeforces.com/problemset/problem/455/B
+Report — https://marisaoj.com/problem/241
+Xor Queries — https://www.codechef.com/problems/XRQRS
+Gotham PD — https://www.codechef.com/problems/GPD
+Search Engine — https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/search-engine/
+Vasiliy's Multiset — https://codeforces.com/problemset/problem/706/D
+XOR-path on tree — https://marisaoj.com/problem/630
+Stream of Characters — https://leetcode.com/problems/stream-of-characters/description/
+Nikitosh and xor — https://www.codechef.com/problems/REBXOR
+Poem — https://marisaoj.com/problem/426
+Maximum Genetic Difference Query — https://leetcode.com/problems/maximum-genetic-difference-query/description/
+Dr. Evil Underscores — https://codeforces.com/problemset/problem/1285/D
+Beautiful Substrings — https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/beautiful-substrings-008a53a4/
+Watto and Mechanism — https://codeforces.com/problemset/problem/514/C
+Special Subarrays — https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/special-subarrays-4-99375442/
+SUBXOR - SubXor — https://www.spoj.com/problems/SUBXOR/
+DICT - Search in the dictionary! — https://www.spoj.com/problems/DICT/
+Spy Syndrome 2 — https://codeforces.com/problemset/problem/633/C
+Count Pairs With XOR in a Range — https://leetcode.com/problems/count-pairs-with-xor-in-a-range/description/
+Old Berland Language — https://codeforces.com/problemset/problem/37/C
+Short Code — https://codeforces.com/problemset/problem/965/E
+XOR paths — https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/xor-path-1-f7009db6/
+Mass XOR queries — https://marisaoj.com/problem/242
+The ancient book — https://marisaoj.com/problem/654

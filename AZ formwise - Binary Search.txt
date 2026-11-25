@@ -1,0 +1,31 @@
+Digits Sequence (Hard Edition)	https://codeforces.com/problemset/problem/1177/B
+Aggressive cows	https://www.spoj.com/problems/AGGRCOW/
+Ugly Number III	https://leetcode.com/problems/ugly-number-iii/description/
+Pond	https://atcoder.jp/contests/abc203/tasks/abc203_d
+
+Minimum Size Subarray Sum	https://leetcode.com/problems/minimum-size-subarray-sum/description/
+Get Equal Substrings Within Budget	https://leetcode.com/problems/get-equal-substrings-within-budget/description/
+
+Separate Squares I	https://leetcode.com/problems/separate-squares-i/description/
+Sugar Water 2	https://atcoder.jp/contests/abc294/tasks/abc294_f
+
+Arithmetics Competition	https://codeforces.com/problemset/problem/2132/E
+Weakness and Poorness	https://codeforces.com/problemset/problem/578/C
+
+Kth Excluded	https://atcoder.jp/contests/abc205/tasks/abc205_d
+Hamburgers	https://codeforces.com/problemset/problem/371/C
+Handshake	https://atcoder.jp/contests/abc149/tasks/abc149_e
+Dist Max 2	https://atcoder.jp/contests/abc215/tasks/abc215_f
+Range Count Query	https://atcoder.jp/contests/abc248/tasks/abc248_d
+K-th Number in the Union of Segments	https://codeforces.com/edu/course/2/lesson/6/5/practice/contest/285084/problem/A
+Burning Midnight Oil	https://codeforces.com/problemset/problem/165/B
+Magnetic Force Between Two Balls	https://leetcode.com/problems/magnetic-force-between-two-balls/description/
+Valiant's New Map	https://codeforces.com/problemset/problem/1731/D
+Guess the K-th Zero (Easy version)	https://codeforces.com/contest/1520/problem/F1
+Minimum Speed to Arrive on Time	https://leetcode.com/problems/minimum-speed-to-arrive-on-time/description/
+Find Building Where Alice and Bob Can Meet	https://leetcode.com/problems/find-building-where-alice-and-bob-can-meet/description/
+Maximum Fruits Harvested After at Most K Steps	https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/description/
+Tripartite Station	https://www.codechef.com/problems/TRPTSTIC
+Cellular Network	https://codeforces.com/contest/702/problem/C
+The Meeting Place Cannot Be Changed	https://codeforces.com/contest/782/problem/B
+K-th Smallest Remaining Even Integer in Subarray Queries	https://leetcode.com/problems/k-th-smallest-remaining-even-integer-in-subarray-queries/

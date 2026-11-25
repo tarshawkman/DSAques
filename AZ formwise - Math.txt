@@ -1,0 +1,41 @@
+Combinatorics-
+The Fair Nut and String	https://codeforces.com/problemset/problem/1084/C
+Beautiful Numbers	https://codeforces.com/problemset/problem/300/C
+Colorful Blocks	https://atcoder.jp/contests/abc167/tasks/abc167_e
+The Intriguing Obsession	https://codeforces.com/problemset/problem/869/C
+aab aba baa	https://atcoder.jp/contests/abc202/tasks/abc202_d
+Dima and Two Sequences	https://codeforces.com/problemset/problem/272/D
+NEQ	https://atcoder.jp/contests/abc172/tasks/abc172_e
+Roaming	https://atcoder.jp/contests/abc156/tasks/abc156_e
+Christmas Party	https://cses.fi/problemset/task/1717
+Placing Rooks	https://codeforces.com/problemset/problem/1342/E
+
+Number Theory-
+Throne	https://atcoder.jp/contests/abc186/tasks/abc186_e
+Disjoint Set of Common Divisors	https://atcoder.jp/contests/abc142/tasks/abc142_d
+Counting Divisors	https://cses.fi/problemset/task/1713
+Longest Subsequence	https://codeforces.com/problemset/problem/632/D
+Sum of Divisors	https://cses.fi/problemset/task/1082
+Modular Equations	https://codeforces.com/problemset/problem/495/B
+Remainder Minimization 2019	https://atcoder.jp/contests/abc133/tasks/abc133_c
+Rational Resistance	https://codeforces.com/problemset/problem/343/A
+Double Factorial	https://atcoder.jp/contests/abc148/tasks/abc148_e
+Dima and Lisa	https://codeforces.com/problemset/problem/584/D
+
+Mixed-
+Factorization	https://atcoder.jp/contests/abc110/tasks/abc110_d
+Divide Both	https://atcoder.jp/contests/abc206/tasks/abc206_e
+Infinite Fence	https://codeforces.com/problemset/problem/1260/C
+Not Divisible	https://atcoder.jp/contests/abc170/tasks/abc170_d
+Devu and Flowers	https://codeforces.com/problemset/problem/451/E
+Tourist Problem	https://codeforces.com/problemset/problem/340/C
+Sequence Sum	https://atcoder.jp/contests/abc179/tasks/abc179_e
+Five, Five Everywhere	https://atcoder.jp/contests/abc096/tasks/abc096_d
+Cheerleaders	https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2906
+GCD on Blackboard	https://atcoder.jp/contests/abc125/tasks/abc125_c
+Div Game	https://atcoder.jp/contests/abc169/tasks/abc169_d
+Devu and Birthday Celebration	https://codeforces.com/problemset/problem/439/E
+
+
+
+

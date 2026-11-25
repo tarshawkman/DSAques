@@ -1,0 +1,63 @@
+Basic & Range-
+
+Xenia and Bit Operations — https://codeforces.com/problemset/problem/339/D
+Sereja and Brackets — https://codeforces.com/problemset/problem/380/C
+GSS3 - Can you answer these queries III — https://www.spoj.com/problems/GSS3/
+Distinct Characters Queries — https://codeforces.com/problemset/problem/1234/D
+Messenger Simulator — https://codeforces.com/problemset/problem/1288/E
+
+Lazy prop & Range-
+
+HORRIBLE - Horrible Queries — https://www.spoj.com/problems/HORRIBLE/
+Range Module — https://leetcode.com/problems/range-module/description/
+Anton and Tree — https://codeforces.com/problemset/problem/242/E
+MULTQ3 - Multiples of 3 — https://www.spoj.com/problems/MULTQ3/
+Polynomial Queries — https://cses.fi/problemset/task/1736
+
+Kth type and merge sort-
+
+K-query — https://www.spoj.com/problems/KQUERY/
+The k-th number — https://www.spoj.com/problems/MKTHNUM/
+List Removals — https://cses.fi/problemset/task/1749
+Enemy is weak — https://codeforces.com/problemset/problem/61/E
+One Occurrence — https://codeforces.com/problemset/problem/1000/F
+
+Coordinate compression & Offline queries-
+
+Rectangle Area II — https://leetcode.com/problems/rectangle-area-ii/description/
+Salary Queries — https://cses.fi/problemset/task/1144
+Water Tree — https://codeforces.com/problemset/problem/343/D
+Points — https://codeforces.com/problemset/problem/19/D
+Petya and Array — https://codeforces.com/problemset/problem/1042/D
+
+Mixed-
+
+Count Substrings That Satisfy K-Constraint II — https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/description/
+Palindromic Path Queries in a Tree — https://leetcode.com/problems/palindromic-path-queries-in-a-tree/description/
+A Simple Task — https://codeforces.com/problemset/problem/558/E
+Separate Squares II — https://leetcode.com/problems/separate-squares-ii/description/
+Subtree Minimum Query — https://codeforces.com/problemset/problem/893/F
+Pizzeria Queries — https://cses.fi/problemset/task/2206
+Handling Sum Queries After Update — https://leetcode.com/problems/handling-sum-queries-after-update/description/
+Smaller Sum — https://atcoder.jp/contests/abc339/tasks/abc339_g
+The Skyline Problem — https://leetcode.com/problems/the-skyline-problem/description/
+INCSEQ - Increasing Sequences — https://www.spoj.com/problems/INCSEQ/
+Ball — https://codeforces.com/problemset/problem/12/D
+Zip-line — https://codeforces.com/problemset/problem/650/D
+Fancy Sequence — https://leetcode.com/problems/fancy-sequence/description/
+Prefix Sum Queries — https://cses.fi/problemset/task/2166
+LITE - Light Switching — https://www.spoj.com/problems/LITE/
+My Calendar III — https://leetcode.com/problems/my-calendar-iii/description/
+Greedy Shopping — https://codeforces.com/problemset/problem/1439/C
+Restore Permutation — https://codeforces.com/problemset/problem/1208/D
+KGSS - Maximum Variance Segment Tree — https://www.spoj.com/problems/KGSS/
+Pashmak and Parmida's problem — https://codeforces.com/problemset/problem/459/D
+Please, another Queries on Array — https://codeforces.com/problemset/problem/1114/F
+Army Creation — https://codeforces.com/problemset/problem/813/E
+Hotel Queries — https://cses.fi/problemset/task/1143
+Second Largest Query — https://atcoder.jp/contests/abc343/tasks/abc343_f
+NICEDAY - The day of the competitors — https://www.spoj.com/problems/NICEDAY/
+Alone — https://atcoder.jp/contests/abc346/tasks/abc346_g
+Number of Pairs Satisfying Inequality — https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/
+Distance Queries on a Tree — https://atcoder.jp/contests/abc294/tasks/abc294_g
+Operations on a Matrix — https://atcoder.jp/contests/abc253/tasks/abc253_f

@@ -1,0 +1,49 @@
+Common Divisors — https://codeforces.com/problemset/problem/182/D
+Mashmokh and ACM — https://codeforces.com/problemset/problem/414/B
+Biridian Forest — https://codeforces.com/problemset/problem/329/B
+Maximize the Root — https://codeforces.com/contest/1997/problem/D
+Working out — https://codeforces.com/problemset/problem/429/B
+Maximum Submatrix 2 — https://codeforces.com/problemset/problem/375/B
+Parsa's Humongous Tree — https://codeforces.com/problemset/problem/1528/A
+Xenia and Bit Operations — https://codeforces.com/problemset/problem/339/D
+Caesar's Legions — https://codeforces.com/problemset/problem/118/D
+Unbearable Controversy of Being — https://codeforces.com/problemset/problem/489/D
+Cow Program — https://codeforces.com/problemset/problem/283/B
+Greenhouse Effect — https://codeforces.com/problemset/problem/269/B
+Planets — https://codeforces.com/problemset/problem/229/B
+Greg and Graph — https://codeforces.com/problemset/problem/295/B
+Little Girl and Maximum XOR — https://codeforces.com/problemset/problem/276/D
+Iris and Game on the Tree — https://codeforces.com/contest/2007/problem/D
+Beautiful Graph — https://codeforces.com/problemset/problem/1093/D
+Drunken Maze — https://codeforces.com/problemset/problem/2041/D
+Tree Pruning — https://codeforces.com/problemset/problem/2018/C
+Don't Blame Me — https://codeforces.com/problemset/problem/1829/H
+Iris and Game on the Tree — https://codeforces.com/problemset/problem/2006/A
+Zero Path — https://codeforces.com/problemset/problem/1695/C
+Road Optimization — https://codeforces.com/problemset/problem/1625/C
+Running Miles — https://codeforces.com/problemset/problem/1826/D
+Valid BFS? — https://codeforces.com/problemset/problem/1037/D
+Flowers — https://codeforces.com/problemset/problem/474/D
+Zero Tree — https://codeforces.com/problemset/problem/274/B
+Lucky Number 2 — https://codeforces.com/problemset/problem/145/B
+Wizards and Huge Prize — https://codeforces.com/problemset/problem/167/B
+Doctor — https://codeforces.com/problemset/problem/83/B
+Edge Weight Assignment — https://codeforces.com/problemset/problem/1338/B
+Numbers on Tree — https://codeforces.com/problemset/problem/1286/B
+A Wide, Wide Graph — https://codeforces.com/problemset/problem/1805/D
+Two Paths — https://codeforces.com/problemset/problem/14/D
+Pawn — https://codeforces.com/problemset/problem/41/D
+Prime XOR Coloring — https://codeforces.com/contest/1991/problem/D
+0-1 MST — https://codeforces.com/problemset/problem/1242/B
+Medium Demon Problem (hard version) — https://codeforces.com/problemset/problem/2044/G2
+MEX Sequences — https://codeforces.com/problemset/problem/1613/D
+Lucky Common Subsequence — https://codeforces.com/problemset/problem/346/B
+Apple Tree — https://codeforces.com/problemset/problem/348/B
+Yaroslav and Time — https://codeforces.com/problemset/problem/301/B
+Determine Winning Islands in Race — https://codeforces.com/contest/1998/problem/D
+Minimum spanning tree for each edge — https://codeforces.com/contest/609/problem/E
+Blood Cousins — https://codeforces.com/contest/208/problem/E
+A and B and Lecture Rooms — https://codeforces.com/contest/519/problem/E
+Information Graph — https://codeforces.com/contest/466/problem/E
+Tree Painting — https://codeforces.com/contest/1187/problem/E
+Tree — https://codeforces.com/contest/932/problem/D

@@ -1,0 +1,73 @@
+State space reduction-
+
+RGB Sequence — https://atcoder.jp/contests/arc074/tasks/arc074_c
+Valid Permutations for DI Sequence — https://leetcode.com/problems/valid-permutations-for-di-sequence/description/
+Cherry Pickup — https://leetcode.com/problems/cherry-pickup/description/
+Super Egg Drop — https://leetcode.com/problems/super-egg-drop/description/
+Mr. Kitayuta, the Treasure Hunter — https://codeforces.com/problemset/problem/505/C
+
+State rotation-
+
+Knapsack 2 — https://atcoder.jp/contests/dp/tasks/dp_e
+Minimum Number of Refueling Stops — https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
+Round Subset — https://codeforces.com/problemset/problem/837/D
+Make Array Strictly Increasing — https://leetcode.com/problems/make-array-strictly-increasing/description/
+Erase Subsequences — https://codeforces.com/problemset/problem/1303/E
+
+Space optimization-
+
+Book Shop — https://cses.fi/problemset/task/1158
+LCS0 - Longest Common Subsequence — https://www.spoj.com/problems/LCS0/
+Two Sets II — https://cses.fi/problemset/task/1093
+Valid Palindrome III — https://leetcode.com/problems/valid-palindrome-iii/description/
+Bottles — https://codeforces.com/problemset/problem/730/J
+
+Transition optimization-
+
+Candies — https://atcoder.jp/contests/dp/tasks/dp_m
+Permutation — https://atcoder.jp/contests/dp/tasks/dp_t
+Maximum Number of Points with Cost — https://leetcode.com/problems/maximum-number-of-points-with-cost/description/
+Subtree — https://atcoder.jp/contests/dp/tasks/dp_v
+Writing Code — https://codeforces.com/problemset/problem/543/A
+
+Sorting based DP optimisation-
+
+Tower — https://atcoder.jp/contests/dp/tasks/dp_x
+Group Projects — https://codeforces.com/problemset/problem/626/F
+Russian Doll Envelopes — https://leetcode.com/problems/russian-doll-envelopes/description/
+Pashmak and Graph — https://codeforces.com/problemset/problem/459/E
+Maximum Height by Cuboids — https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/
+
+Mixed-
+
+Painting the Walls — https://leetcode.com/problems/painting-the-walls/description/
+Dima and Salad — https://codeforces.com/problemset/problem/366/C
+Easy Problem — https://codeforces.com/problemset/problem/1096/D
+The Sports Festival — https://codeforces.com/problemset/problem/1509/C
+Takahashi's Game — https://atcoder.jp/contests/arc057/tasks/arc057_b
+Tallest Billboard — https://leetcode.com/problems/tallest-billboard/description/
+Fox And Jumping — https://codeforces.com/problemset/problem/510/D
+Fixed Points — https://codeforces.com/problemset/problem/1551/E
+Unmerge — https://codeforces.com/problemset/problem/1381/B
+Minimize the Difference — https://leetcode.com/problems/minimize-the-difference/description/
+Grid 2 — https://atcoder.jp/contests/dp/tasks/dp_y
+Minimum Number of Days to Eat N Oranges — https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/description/
+Number of Ways of Cutting a Pizza — https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/
+Jump Game VII — https://leetcode.com/problems/jump-game-vii/description/
+Projects — https://cses.fi/problemset/task/1140
+Strange Beauty — https://codeforces.com/problemset/problem/1475/G
+Obtain The String — https://codeforces.com/problemset/problem/1295/C
+Consecutive Subsequence — https://codeforces.com/problemset/problem/977/F
+George and Job — https://codeforces.com/problemset/problem/467/C
+Longest Palindromic Subsequence — https://leetcode.com/problems/longest-palindromic-subsequence/description/
+Best Time to Buy and Sell Stock IV — https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/
+Kindergarten — https://codeforces.com/problemset/problem/484/D
+Interleaving String — https://leetcode.com/problems/interleaving-string/description/
+Distinct Subsequences — https://leetcode.com/problems/distinct-subsequences/description/
+Money Sums — https://cses.fi/problemset/task/1745
+Maximum Profit in Job Scheduling — https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
+Best Team With No Conflicts — https://leetcode.com/problems/best-team-with-no-conflicts/description/
+Longest String Chain — https://leetcode.com/problems/longest-string-chain/description/
+Simple Knapsack — https://atcoder.jp/contests/arc073/tasks/arc073_d
+Largest Divisible Subset — https://leetcode.com/problems/largest-divisible-subset/description/
+Two Best Non-Overlapping Events — https://leetcode.com/problems/two-best-non-overlapping-events/description/

@@ -1,0 +1,32 @@
+DnC-
+
+Caracal vs Monster	https://atcoder.jp/contests/abc153/tasks/abc153_d
+Tower of Hanoi	https://cses.fi/problemset/task/2165
+
+Kth form-
+
+Code For 1	https://codeforces.com/problemset/problem/768/B
+Nephren gives a riddle	https://codeforces.com/problemset/problem/896/A
+Christmas	https://atcoder.jp/contests/abc115/tasks/abc115_d
+K-th Symbol in Grammar	https://leetcode.com/problems/k-th-symbol-in-grammar/description/
+
+Backtracking-
+
+Beautiful Arrangement	https://leetcode.com/problems/beautiful-arrangement/description/
+Target Sum	https://leetcode.com/problems/target-sum/description/
+Ambiguous Coordinates	https://leetcode.com/problems/ambiguous-coordinates/description/
+755	https://atcoder.jp/contests/abc114/tasks/abc114_c
+
+Mixed-
+
+Fractals	https://codeforces.com/problemset/problem/36/B
+Chessboard and Queens	https://cses.fi/problemset/task/1624
+Partition Array Into Two Equal Product Subsets	https://leetcode.com/problems/partition-array-into-two-equal-product-subsets/description/
+The k-th Lexicographical String of All Happy Strings of Length n	https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/
+ORXOR	https://atcoder.jp/contests/abc197/tasks/abc197_c
+Dividing Chocolate	https://atcoder.jp/contests/abc159/tasks/abc159_e
+Synthetic Kadomatsu	https://atcoder.jp/contests/abc119/tasks/abc119_c
+Red Polyomino	https://atcoder.jp/contests/abc211/tasks/abc211_e
+Split Array into Fibonacci Sequence	https://leetcode.com/problems/split-array-into-fibonacci-sequence/description/
+Additive Number	https://leetcode.com/problems/additive-number/description/
+Fibonacci String	https://atcoder.jp/contests/abc450/tasks/abc450_e

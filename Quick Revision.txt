@@ -1,0 +1,121 @@
+Math-
+
+Exponentiation AZ101 — https://maang.in/problems/Exponentiation-AZ101-387
+Number of Ways to Reach B — https://maang.in/problems/Number-of-Ways-to-Reach-B-71
+Number of Diagonals — https://maang.in/problems/Number-of-Diagonals-68
+Number of Intersecting Diagonals — https://maang.in/problems/Number-of-Intersecting-Diagonals-69
+Prime Check AZ101 — https://maang.in/problems/Prime-Check-AZ101-323
+Number of Divisors AZ101 — https://maang.in/problems/Number-of-Divisors-AZ101-322
+Sieve of Eratosthenes Revisited — https://maang.in/problems/Sieve-of-Eratosthenes-Revisited-234
+Paired Cubes — https://maang.in/problems/Paired-Cubes-229
+
+STL Application-
+
+Generating Permutations AZ101 — https://maang.in/problems/Generating-Permutations-AZ101-366
+Common Absolute Difference — https://maang.in/problems/Common-Absolute-Difference-379
+Reduce the Array AZ101 — https://maang.in/problems/Reduce-the-Array-AZ101-376
+Concatenate Array AZ101 — https://maang.in/problems/Concatenate-Array-AZ101-373
+Towers AZ101 — https://maang.in/problems/Towers-AZ101-362
+STL Searching — https://maang.in/problems/STL-Searching-395
+Support Queries I — https://maang.in/problems/Support-Queries-I-83
+Support Queries II — https://maang.in/problems/Support-Queries-II-98
+Sort by Roll Number — https://maang.in/problems/Sort-by-Roll-Number-352
+Valid Parentheses AZ101 — https://maang.in/problems/Valid-Parentheses-AZ101-348
+Maximum in Window — https://maang.in/problems/Maximum-in-Window-77
+Running Mean, Median and Mode AZ101 — https://maang.in/problems/Running-Mean-Median-and-Mode-AZ101-391
+Nearest Smaller Values AZ101 — https://maang.in/problems/Nearest-Smaller-Values-AZ101-378
+Rain Water — https://maang.in/problems/Rain-Water-462
+Largest Rectangle — https://maang.in/problems/Largest-Rectangle-461
+LRU Cache — https://maang.in/problems/LRU-Cache-648
+LFU Cache — https://maang.in/problems/LFU-Cache-641
+
+Prefix & Contribution-
+
+LR Sum Query — https://maang.in/problems/LR-Sum-Query-18
+Kth Val — https://maang.in/problems/Kth-Val-34
+Rectangle Sum Query — https://maang.in/problems/Rectangle-Sum-Query-25
+Buy Maximum Objects II — https://maang.in/problems/Buy-Maximum-Objects-II-74
+Count Distinct Char in Substrings — https://maang.in/problems/Count-Distinct-Char-in-Substrings-62
+Count Unique Char in Substrings — https://maang.in/problems/Count-Unique-Char-in-Substrings-63
+Super Minimum Sum — https://maang.in/problems/Super-Minimum-Sum-78
+
+Binary Search-
+
+Rotated Sorted Array — https://maang.in/problems/Rotated-Sorted-Array-108
+Bitonic Array — https://maang.in/problems/Bitonic-Array-107
+Famous Painter Partition Problem — https://maang.in/problems/Famous-Painter-Partition-Problem-472
+Minimise Max Diff — https://maang.in/problems/Minimise-Max-Diff-46
+Kth Sum Value — https://maang.in/problems/Kth-Sum-Value-102
+Consecutive One — https://maang.in/problems/Consecutive-one-44
+Good Pairs AZ101 — https://maang.in/problems/Good-Pairs-AZ101-377
+Maximise the fraction — https://maang.in/problems/Maximise-the-fraction-105
+
+Two pointer-
+
+https://maang.in/dashboard
+AZ IDE — https://maang.in/ide
+AZ Problem Set — https://maang.in/problems
+Classical Sheets — https://maang.in/classical-sheets
+Aptitude — https://maang.in/aptitude
+Contests — https://maang.in/contests
+Report Bug — https://maang.in/classical-sheets/Last-Minute-Revision-36#
+Max Value in the Rectangle — https://maang.in/problems/Max-Value-in-the-Rectangle-28
+Minimum Penalty — https://maang.in/problems/Minimum-Penalty-64
+Number of Subarray with at most K distinct — https://maang.in/problems/Number-of-Subarray-with-at-most-K-distinct-60
+Shortest Subarray — https://maang.in/problems/Shortest-Subarray-57
+3 Sum — https://maang.in/problems/3-Sum-65
+The Proxy Investigation — https://maang.in/problems/The-Proxy-Investigation-1143
+Median of Subarray Sum — https://maang.in/problems/Median-of-Subarray-Sum-45
+K Odd Number — https://maang.in/problems/K-Odd-Number-51
+
+Recursion & Backtracking-
+
+All Permutations — https://maang.in/problems/All-Permutations-475
+Kth Permutation - easy version — https://maang.in/problems/Kth-Permutation-easy-version-476
+Queens On Chessboard — https://maang.in/problems/Queens-On-Chessboard-272
+Generate Balanced Parenthesis - easy version — https://maang.in/problems/Generate-Balanced-Parenthesis-easy-version-484
+Count Inversions — https://maang.in/problems/Count-Inversions-22
+Bubble Sort Swap Parity — https://maang.in/problems/Bubble-Sort-Swap-Parity-24
+Kth Permutation - hard version — https://maang.in/problems/Kth-Permutation-hard-version-477
+N-Queens Revisited — https://maang.in/problems/NQueens-Revisited-143
+
+Graph-
+
+Easy Graph Queries — https://maang.in/problems/Easy-Graph-Queries-400
+Find the Number of Rooms — https://maang.in/problems/Find-the-Number-of-Rooms-191
+Building Roads — https://maang.in/problems/Building-Roads-192
+Round Trip — https://maang.in/problems/Round-Trip-194
+Infected People — https://maang.in/problems/Infected-People-589
+Smallest Permutation — https://maang.in/problems/Smallest-Permutation-898
+Topological Labelling — https://maang.in/problems/Topological-Labelling-392
+One Piece — https://maang.in/problems/One-Piece-902
+Shortest Path I — https://maang.in/problems/Shortest-Path-I-207
+Burn them All — https://maang.in/problems/Burn-them-All-618
+Bellman-Ford Revisited — https://maang.in/problems/BellmanFord-Revisited-209
+All Pairs Shortest Path — https://maang.in/problems/All-Pairs-Shortest-Path-431
+Jump Game — https://maang.in/problems/Jump-Game-897
+Budget Travelling — https://maang.in/problems/Budget-Travelling-615
+Disjoint Union — https://maang.in/problems/Disjoint-Union-40
+Road Reparation — https://maang.in/problems/Road-Reparation-206
+
+Bit manipulation-
+
+Bit Magic I — https://maang.in/problems/Bit-Magic-I-884
+Bit Magic II — https://maang.in/problems/Bit-Magic-II-873
+Bitwise Operations — https://maang.in/problems/Bitwise-Operations-52
+XOR and AND — https://maang.in/problems/XOR-and-AND-49
+XOR AND OR Query — https://maang.in/problems/XOR-AND-OR-Query-50
+Max AND Subsequences — https://maang.in/problems/Max-AND-Subsequences-54
+
+DP-
+
+Subset Sum Queries — https://maang.in/problems/Subset-Sum-Queries-760
+LCS of 3 Strings — https://maang.in/problems/LCS-of-3-Strings-911
+Count LIS — https://maang.in/problems/Count-LIS-919
+Maximum Area of Square — https://maang.in/problems/Maximum-Area-of-Square-494
+Number of Paths in Grid - 2 — https://maang.in/problems/Number-of-Paths-in-Grid-2-493
+Longest Common Substring — https://maang.in/problems/Longest-Common-Substring-910
+Edit Distance — https://maang.in/problems/Edit-Distance-1262
+Merge Elements 1 — https://maang.in/problems/Merge-Elements-1-161
+Destroy Coloured Gemstones — https://maang.in/problems/Destroy-Coloured-Gemstones-179
+Subtraction Game — https://maang.in/problems/Subtraction-Game-1079

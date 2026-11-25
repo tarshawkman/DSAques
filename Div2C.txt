@@ -1,0 +1,49 @@
+Team — https://codeforces.com/problemset/problem/401/C
+Beautiful Set of Points — https://codeforces.com/problemset/problem/268/C
+Valera and Tubes — https://codeforces.com/problemset/problem/441/C
+Permutation Counting — https://codeforces.com/contest/1972/problem/C
+MEX Game 1 — https://codeforces.com/contest/1944/problem/C
+Theofanis' Nightmare — https://codeforces.com/contest/1903/problem/C
+Anonymous Informant — https://codeforces.com/contest/1894/problem/C
+Smilo and Monsters — https://codeforces.com/contest/1891/problem/C
+Qingshan Loves Strings 2 — https://codeforces.com/contest/1890/problem/C
+Fill in the Matrix — https://codeforces.com/contest/1869/problem/C
+Yet Another Permutation Problem — https://codeforces.com/contest/1858/problem/C
+Counting Orders — https://codeforces.com/contest/1828/problem/C
+Monsters (easy version) — https://codeforces.com/contest/1786/problem/C
+Scoring Subsequences — https://codeforces.com/contest/1794/problem/C
+Elemental Decompress — https://codeforces.com/contest/1768/problem/C
+Circular Local MiniMax — https://codeforces.com/contest/1686/problem/C
+Servers — https://codeforces.com/contest/747/problem/C
+Make it Alternating — https://codeforces.com/contest/1879/problem/C
+Closest Cities — https://codeforces.com/contest/1922/problem/C
+Best Binary String — https://codeforces.com/contest/1837/problem/C
+Tea Party — https://codeforces.com/problemset/problem/808/C
+Santa Claus and Robot — https://codeforces.com/problemset/problem/748/C
+Hamburgers — https://codeforces.com/problemset/problem/371/C
+Division into Teams — https://codeforces.com/problemset/problem/149/C
+Nene's Magical Matrix — https://codeforces.com/contest/1956/problem/C
+To Add or Not to Add — https://codeforces.com/problemset/problem/231/C
+No Prime Differences — https://codeforces.com/contest/1838/problem/C
+Ian and Array Sorting — https://codeforces.com/contest/1816/problem/C
+LIS or Reverse LIS? — https://codeforces.com/contest/1682/problem/C
+Vladik and fractions — https://codeforces.com/contest/743/problem/C
+Banh-mi — https://codeforces.com/contest/1062/problem/C
+Maximum Set — https://codeforces.com/contest/1796/problem/C
+Stack of Presents — https://codeforces.com/contest/1279/problem/C
+Chocolate Bunny — https://codeforces.com/problemset/problem/1407/C
+Vasya And Array — https://codeforces.com/contest/1187/problem/C
+Alyona and Spreadsheet — https://codeforces.com/contest/777/problem/C
+Plus and Square Root — https://codeforces.com/contest/716/problem/C
+Unfair Poll — https://codeforces.com/contest/758/problem/C
+Alyona and mex — https://codeforces.com/contest/740/problem/C
+Tennis Championship — https://codeforces.com/contest/735/problem/C
+Candy Store — https://codeforces.com/contest/1798/problem/C
+Ntarsis' Set — https://codeforces.com/contest/1853/problem/C
+Colorful Grid — https://codeforces.com/contest/1898/problem/C
+Add, Divide and Floor — https://codeforces.com/contest/1901/problem/C
+Insert and Equalize — https://codeforces.com/contest/1902/problem/C
+Search in Parallel — https://codeforces.com/contest/1814/problem/C
+Mashmokh and Numbers — https://codeforces.com/problemset/problem/414/A
+Magic Ship — https://codeforces.com/contest/1117/problem/C
+Brutality — https://codeforces.com/contest/1107/problem/C

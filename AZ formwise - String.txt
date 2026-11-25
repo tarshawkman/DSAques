@@ -1,0 +1,46 @@
+KMP or Z algo-
+
+Password — https://codeforces.com/problemset/problem/126/B
+Prefixes and Suffixes — https://codeforces.com/problemset/problem/432/D
+Number of Subarrays That Match a Pattern II — https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/description/
+Strings of Eternity — https://atcoder.jp/contests/abc135/tasks/abc135_f
+Finding Periods — https://cses.fi/problemset/task/1733
+
+Hashing-
+
+Longest Duplicate Substring — https://leetcode.com/problems/longest-duplicate-substring/description/
+Palindrome Queries — https://cses.fi/problemset/task/2420
+Watto and Mechanism — https://codeforces.com/problemset/problem/514/C
+ABCBAC — https://atcoder.jp/contests/abc284/tasks/abc284_f
+
+Manacher's algo-
+
+Prefix-Suffix Palindrome (Hard version) — https://codeforces.com/problemset/problem/1326/D2
+Palindromic Border — https://www.hackerrank.com/challenges/palindromic-border/problem
+Palindrome Partitioning IV — https://leetcode.com/problems/palindrome-partitioning-iv/description/
+Maximum Number of Non-overlapping Palindrome Substrings — https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/description/
+Enumerate Palindromes — https://judge.yosupo.jp/problem/enumerate_palindromes
+
+Mixed-
+
+EPALIN - Extend to Palindrome — https://www.spoj.com/problems/EPALIN/
+Finding Borders — https://cses.fi/problemset/task/1732
+MUH and Cube Walls — https://codeforces.com/problemset/problem/471/D
+Longest Common Subpath — https://leetcode.com/problems/longest-common-subpath/description/
+Repeating Substring — https://cses.fi/problemset/task/2106
+Compress Words — https://codeforces.com/problemset/problem/1200/E
+Distinct Echo Substrings — https://leetcode.com/problems/distinct-echo-substrings/description/
+Games on a CD — https://codeforces.com/problemset/problem/727/E
+Petr# — https://codeforces.com/problemset/problem/113/B
+Om Nom and Necklace — https://codeforces.com/problemset/problem/526/D
+Sonya and Matrix Beauty — https://codeforces.com/problemset/problem/1080/E
+Queries for Number of Palindromes — https://codeforces.com/problemset/problem/245/H
+Anthem of Berland — https://codeforces.com/problemset/problem/808/G
+NUMOFPAL - Number of Palindromes — https://www.spoj.com/problems/NUMOFPAL/
+Check if DFS Strings Are Palindromes — https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/description/
+String Compression — https://codeforces.com/problemset/problem/825/F
+Palindrome Degree — https://codeforces.com/problemset/problem/7/D
+TEST — https://codeforces.com/problemset/problem/25/E
+Check Transcription — https://codeforces.com/problemset/problem/1056/E
+Palindromic characteristics — https://codeforces.com/problemset/problem/835/D
+Who Says a Pun? — https://atcoder.jp/contests/abc141/tasks/abc141_e

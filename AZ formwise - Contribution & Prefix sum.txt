@@ -1,0 +1,37 @@
+Contribution technique-
+Imbalanced Array	https://codeforces.com/problemset/problem/817/D
+Maximum and Minimum Sums of at Most Size K Subsequences	https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/description/
+Power of Heroes	https://leetcode.com/problems/power-of-heroes/description/
+Maximum Score of a Good Subarray	https://leetcode.com/problems/maximum-score-of-a-good-subarray/description/
+Sum of Total Strength of Wizards	https://leetcode.com/problems/sum-of-total-strength-of-wizards/description/
+
+Prefix sums-
+Good Subarrays	https://codeforces.com/problemset/problem/1398/C
+Subarray Sums II	https://cses.fi/problemset/task/1661
+Forest Queries	https://cses.fi/problemset/task/1652
+Increment Submatrices by One	https://leetcode.com/problems/increment-submatrices-by-one/description/
+Stamping the Grid	https://leetcode.com/problems/stamping-the-grid/description/
+
+Mixed-
+Number of Submatrices That Sum to Target	https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/
+Maximum and Minimum Sums of at Most Size K Subarrays	https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/description/
+Max Sum of Rectangle No Larger Than K	https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/description/
+Sum of Subsequence Widths	https://leetcode.com/problems/sum-of-subsequence-widths/description/
+Star sky	https://codeforces.com/problemset/problem/835/C
+AtCoder Express 2	https://atcoder.jp/contests/abc106/tasks/abc106_d
+Almost Difference	https://codeforces.com/problemset/problem/903/D
+Snuke Prime	https://atcoder.jp/contests/abc188/tasks/abc188_d
+Count Subarrays With Fixed Bounds	https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/
+Gargari and Bishops	https://codeforces.com/problemset/problem/463/C
+Stable Subarrays With Equal Boundary and Interior Sum	https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum/description/
+Weird Sum	https://codeforces.com/problemset/problem/1648/A
+Total Hamming Distance	https://leetcode.com/problems/total-hamming-distance/description/
+Count the Number of Beautiful Subarrays	https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/description/
+Maximum Subarray Sum II	https://cses.fi/problemset/task/1644
+Squared Error	https://atcoder.jp/contests/abc194/tasks/abc194_c
+Maximum Subarray Sum With Length Divisible by K	https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/
+Make Sum Divisible by P	https://leetcode.com/problems/make-sum-divisible-by-p/description/
+Sum of Absolute Differences in a Sorted Array	https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/description/
+Corporate Flight Bookings	https://leetcode.com/problems/corporate-flight-bookings/description/
+Vowels of All Substrings	https://leetcode.com/problems/vowels-of-all-substrings/description/
+Interesting Story	https://codeforces.com/problemset/problem/1551/C

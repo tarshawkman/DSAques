@@ -1,0 +1,85 @@
+DFS-
+
+Coloring A Border — https://leetcode.com/problems/coloring-a-border/description/
+Greatest Common Divisor Traversal — https://leetcode.com/problems/greatest-common-divisor-traversal/description/
+Maximum Partition Factor — https://leetcode.com/problems/maximum-partition-factor/description/
+Longest Cycle in a Graph — https://leetcode.com/problems/longest-cycle-in-a-graph/description/
+Friend Suggestions — https://atcoder.jp/contests/abc157/tasks/abc157_d
+
+BFS-
+
+Word Ladder — https://leetcode.com/problems/word-ladder/description/
+Sliding Puzzle — https://leetcode.com/problems/sliding-puzzle/description/
+Valid BFS? — https://codeforces.com/contest/1037/problem/D
+Shortest Cycle — https://codeforces.com/problemset/problem/1205/B
+Go Straight — https://atcoder.jp/contests/abc453/tasks/abc453_d
+
+Multisource BFS-
+
+Christmas Trees — https://codeforces.com/problemset/problem/1283/D
+Monsters — https://cses.fi/problemset/task/1194/
+Darker and Darker — https://atcoder.jp/contests/agc033/tasks/agc033_a
+Nearest Opposite Parity — https://codeforces.com/problemset/problem/1272/E
+Police Stations — https://codeforces.com/problemset/problem/796/D
+
+Topological Order-
+
+Strange Printer II — https://leetcode.com/problems/strange-printer-ii/description/
+Parallel Courses III — https://leetcode.com/problems/parallel-courses-iii/description/
+Sort Items by Groups Respecting Dependencies — https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/description/
+Shiritori — https://atcoder.jp/contests/abc209/tasks/abc209_e
+Fox And Names — https://codeforces.com/problemset/problem/510/C
+
+Shortest path algo-
+
+Minimum Time to Visit a Cell In a Grid — https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/description/
+Coins Respawn — https://atcoder.jp/contests/abc137/tasks/abc137_e
+Jzzhu and Cities — https://codeforces.com/problemset/problem/449/B
+Rush Hour 2 — https://atcoder.jp/contests/abc204/tasks/abc204_e
+Shortest Path Queries 2 — https://atcoder.jp/contests/abc208/tasks/abc208_d
+
+0/1 BFS-
+
+Minimum Cost to Make at Least One Valid Path in a Grid — https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/
+KATHTHI — https://www.spoj.com/problems/KATHTHI/
+Minimum Obstacle Removal to Reach Corner — https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/description/
+Stronger Takahashi — https://atcoder.jp/contests/abc213/tasks/abc213_e
+Chamber of Secrets — https://codeforces.com/problemset/problem/173/B
+
+DSU-
+
+Sum of Maximum Weights — https://atcoder.jp/contests/abc214/tasks/abc214_d
+Making A Large Island — https://leetcode.com/problems/making-a-large-island/description/
+Largest Component Size by Common Factor — https://leetcode.com/problems/largest-component-size-by-common-factor/description/
+Remove Max Number of Edges to Keep Graph Fully Traversable — https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/
+Maximum Distance — https://codeforces.com/problemset/problem/1081/D
+
+MST-
+
+Hierarchy — https://codeforces.com/problemset/problem/17/B
+Built? — https://atcoder.jp/contests/abc065/tasks/arc076_b
+Shichikuji and Power Grid — https://codeforces.com/problemset/problem/1245/D
+MST + 1 — https://atcoder.jp/contests/abc235/tasks/abc235_e
+Maximize Spanning Tree Stability with Upgrades — https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades/description/
+
+Mixed-
+
+KAIBUNsyo — https://atcoder.jp/contests/abc206/tasks/abc206_d
+1 or 2 — https://atcoder.jp/contests/abc126/tasks/abc126_e
+Divide Nodes Into the Maximum Number of Groups — https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/
+Vlad and Unfinished Business — https://codeforces.com/problemset/problem/1675/F
+Number of Increasing Paths in a Grid — https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/
+Coprocessor — https://codeforces.com/problemset/problem/909/E
+Minimum Moves to Move a Box to Their Target Location — https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
+Check if the Rectangle Corner Is Reachable — https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/description/
+Rank Transform of a Matrix — https://leetcode.com/problems/rank-transform-of-a-matrix/description/
+Range Connect MST — https://atcoder.jp/contests/abc364/tasks/abc364_f
+Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree — https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/
+Three States — https://codeforces.com/problemset/problem/590/C
+Average Shortest Path — https://www.codechef.com/problems/AVGSHORT
+Liars — https://www.hackerrank.com/challenges/liars/problem
+Collision — https://atcoder.jp/contests/arc090/tasks/arc090_c
+Roads in Berland — https://codeforces.com/problemset/problem/25/C
+Travel by Car — https://atcoder.jp/contests/abc143/tasks/abc143_e
+Portal — https://codeforces.com/problemset/problem/1520/G
+Avoid Eye Contact — https://atcoder.jp/contests/abc317/tasks/abc317_e

@@ -1,0 +1,51 @@
+Sorting type-
+Robot Vacuum Cleaner	https://codeforces.com/problemset/problem/922/D
+Solve Now	https://codeforces.com/problemset/problem/922/D
+Ferris Wheel	https://cses.fi/problemset/task/1090
+Movie Festival	https://cses.fi/problemset/task/1629
+Minimum Number of Arrows to Burst Balloons	https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/
+The Delivery Dilemma	https://codeforces.com/problemset/problem/1443/C
+Airport Bus	https://atcoder.jp/contests/agc011/tasks/agc011_a
+
+Operational decoding-
+Broken Calculator	https://leetcode.com/problems/broken-calculator/description/
+Stamping the Sequence	https://leetcode.com/problems/stamping-the-sequence/description/
+Array Destruction	https://codeforces.com/problemset/problem/1474/C
+Restore the Array	https://codeforces.com/problemset/problem/1811/C
+Face Produces Unhappiness	https://atcoder.jp/contests/abc140/tasks/abc140_d
+
+Exchange argument-
+Tasks and Deadlines	https://cses.fi/problemset/task/1630
+Robot Vacuum Cleaner	https://codeforces.com/problemset/problem/922/D
+Minimum Initial Energy to Finish Tasks	https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/
+Course Schedule III	https://leetcode.com/problems/course-schedule-iii/description/
+Maximum Value of Concatenated Binary Segments	https://leetcode.com/problems/maximum-value-of-concatenated-binary-segments/description/
+
+Sweepline-
+Restaurant Customers	https://cses.fi/problemset/task/1619
+The Skyline Problem	https://leetcode.com/problems/the-skyline-problem/description/
+The Union of k-Segments	https://codeforces.com/problemset/problem/612/D
+Snuke Prime	https://atcoder.jp/contests/abc188/tasks/abc188_d
+Rectangle Area II	https://leetcode.com/problems/rectangle-area-ii/description/
+
+Mixed-
+Room Allocation	https://cses.fi/problemset/task/1164
+Towers	https://cses.fi/problemset/task/1073
+Reading Books	https://cses.fi/problemset/task/1631
+Minimum Number of Taps to Open to Water a Garden	https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/description/
+Car Pooling	https://leetcode.com/problems/car-pooling/description/
+Minimum Grid Path	https://codeforces.com/problemset/problem/1499/C
+The Child and Toy	https://codeforces.com/problemset/problem/437/C
+Game of Credit Cards	https://codeforces.com/problemset/problem/777/B
+Megalomania	https://atcoder.jp/contests/abc131/tasks/abc131_d
+STring	https://atcoder.jp/contests/agc005/tasks/agc005_a
+I AM VERY BUSY	https://www.spoj.com/problems/BUSYMAN/
+Wine trading in Gergovia	https://www.spoj.com/problems/GERGOVIA/
+Little Girl and Maximum Sum	https://codeforces.com/problemset/problem/276/C
+Two Teams Composing	https://codeforces.com/problemset/problem/1335/C
+Multiple Gift	https://atcoder.jp/contests/abc083/tasks/arc088_a
+Same Integers	https://atcoder.jp/contests/abc093/tasks/arc094_a
+Candy Distribution Again	https://atcoder.jp/contests/agc027/tasks/agc027_a
+Load Balancing	https://www.spoj.com/problems/BALIFE/
+Minimum Number of Refueling Stops	https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
+Single-Threaded CPU	https://leetcode.com/problems/single-threaded-cpu/description/

@@ -1,0 +1,49 @@
+Ugu — https://codeforces.com/contest/1732/problem/B
+BAN BAN — https://codeforces.com/contest/1747/problem/B
+Diverse Substrings — https://codeforces.com/contest/1748/problem/B
+XOR = Average — https://codeforces.com/contest/1758/problem/B
+Hossam and Friends — https://codeforces.com/contest/1771/problem/B
+Notepad# — https://codeforces.com/contest/1766/problem/B
+Make Array Good — https://codeforces.com/contest/1762/problem/B
+Block Towers — https://codeforces.com/contest/1767/problem/B
+Kill Demodogs — https://codeforces.com/contest/1731/problem/B
+Quick Sort — https://codeforces.com/contest/1768/problem/B
+Matrix of Differences — https://codeforces.com/contest/1783/problem/B
+Gardener and the Array — https://codeforces.com/contest/1775/problem/B
+Emordnilap — https://codeforces.com/contest/1777/problem/B
+Stand-up Comedian — https://codeforces.com/contest/1792/problem/B
+GCD Partition — https://codeforces.com/contest/1780/problem/B
+Fedya and Array — https://codeforces.com/contest/1793/problem/B
+Ideal Point — https://codeforces.com/contest/1795/problem/B
+Not Dividing — https://codeforces.com/contest/1794/problem/B
+Three Sevens — https://codeforces.com/contest/1798/problem/B
+Playing in a Casino — https://codeforces.com/contest/1808/problem/B
+Li Hua and Pattern — https://codeforces.com/contest/1797/problem/B
+Sort with Step — https://codeforces.com/contest/1823/problem/B
+Indivisible — https://codeforces.com/contest/1818/problem/B
+Jellyfish and Game — https://codeforces.com/contest/1875/problem/B
+The Eternal Immortality — https://codeforces.com/contest/869/problem/B
+Balanced Substring — https://codeforces.com/contest/873/problem/B
+Nikita and string — https://codeforces.com/contest/877/problem/B
+Table Tennis — https://codeforces.com/contest/879/problem/B
+Substring Removal — https://codeforces.com/contest/1096/problem/B
+M-arrays — https://codeforces.com/contest/1497/problem/B
+Max and Mex — https://codeforces.com/contest/1496/problem/B
+Planet Lapituletti — https://codeforces.com/contest/1493/problem/B
+Polycarp and Letters — https://codeforces.com/contest/864/problem/B
+Kayaking — https://codeforces.com/contest/863/problem/B
+Tell Your World — https://codeforces.com/contest/849/problem/B
+Gleb And Pizza — https://codeforces.com/contest/842/problem/B
+The Festive Evening — https://codeforces.com/contest/834/problem/B
+Okabe and Banana Trees — https://codeforces.com/contest/821/problem/B
+Crossword solving — https://codeforces.com/contest/822/problem/B
+New Year's Eve — https://codeforces.com/contest/912/problem/B
+Two Cakes — https://codeforces.com/contest/911/problem/B
+Segments — https://codeforces.com/contest/909/problem/B
+Months and Years — https://codeforces.com/contest/899/problem/B
+Position in Fraction — https://codeforces.com/contest/900/problem/B
+Wrath — https://codeforces.com/contest/892/problem/B
+Cubes for Masha — https://codeforces.com/contest/887/problem/B
+Simple Game — https://codeforces.com/contest/570/problem/B
+Mister B and Angle in Polygon — https://codeforces.com/contest/820/problem/B
+Summer sell-off — https://codeforces.com/contest/810/problem/B

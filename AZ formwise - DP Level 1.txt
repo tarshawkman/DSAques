@@ -1,0 +1,64 @@
+Form 1-
+
+Count Sequences to K — https://leetcode.com/problems/count-sequences-to-k/description/
+Maximum Sum of 3 Non-Overlapping Subarrays — https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/
+Find the Maximum Sequence Value of Array — https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/description/
+Picking Goods — https://atcoder.jp/contests/abc175/tasks/abc175_e
+Knapsack for All Segments — https://atcoder.jp/contests/abc159/tasks/abc159_f
+
+Form 2-
+
+Longest Unequal Adjacent Groups Subsequence II — https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/description/
+Minimum Number of Removals to Make Mountain Array — https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/
+Jump Game V — https://leetcode.com/problems/jump-game-v/description/
+Greenhouse Effect — https://codeforces.com/problemset/problem/269/B
+Mysterious Present — https://codeforces.com/problemset/problem/4/D
+
+Form 3-
+
+Sequence Matching — https://atcoder.jp/contests/abc185/tasks/abc185_e
+Changing a String — https://codeforces.com/problemset/problem/56/D
+Regular Expression Matching — https://leetcode.com/problems/regular-expression-matching/description/
+Armchairs — https://codeforces.com/problemset/problem/1525/D
+Common Subsequence — https://atcoder.jp/contests/abc130/tasks/abc130_e
+
+Form 4-
+
+MIXTURES — https://www.spoj.com/problems/MIXTURES/
+Zuma — https://codeforces.com/problemset/problem/607/B
+Make Pair — https://atcoder.jp/contests/abc217/tasks/abc217_f
+Minimum Cost to Merge Stones — https://leetcode.com/problems/minimum-cost-to-merge-stones/description/
+Slimes — https://atcoder.jp/contests/dp/tasks/dp_n
+
+Form 5-
+
+MCOINS - Coins Game — https://www.spoj.com/problems/MCOINS/
+Stone Game III — https://leetcode.com/problems/stone-game-iii/description/
+Interval Game 2 — https://atcoder.jp/contests/abc206/tasks/abc206_f
+ADAGAME - Ada and Game — https://www.spoj.com/problems/ADAGAME/
+Deque — https://atcoder.jp/contests/dp/tasks/dp_l
+
+Mixed-
+
+Minimum Removals to Achieve Target XOR — https://leetcode.com/problems/minimum-removals-to-achieve-target-xor/description/
+Minimum Sum of Values by Dividing Array — https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/description/
+Burst Balloons — https://leetcode.com/problems/burst-balloons/description/
+Longest Regular Bracket Sequence — https://codeforces.com/problemset/problem/5/C
+Interleaving String — https://leetcode.com/problems/interleaving-string/description/
+Catching Cheaters — https://codeforces.com/problemset/problem/1446/B
+Knight Probability in Chessboard — https://leetcode.com/problems/knight-probability-in-chessboard/description/
+Traveler — https://atcoder.jp/contests/abc197/tasks/abc197_e
+Stone Game IV — https://leetcode.com/problems/stone-game-iv/description/
+Clear the String — https://codeforces.com/problemset/problem/1132/F
+Flipping Signs — https://atcoder.jp/contests/abc125/tasks/abc125_d
+Arithmetic Expressions — https://www.hackerrank.com/challenges/arithmetic-expressions/problem
+Knapsack for All Subsets — https://atcoder.jp/contests/abc169/tasks/abc169_f
+Number of Ways to Rearrange Sticks With K Sticks Visible — https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/description/
+Potion — https://atcoder.jp/contests/abc192/tasks/abc192_f
+Don't Be a Subsequence — https://atcoder.jp/contests/arc081/tasks/arc081_c
+Match Matching — https://atcoder.jp/contests/abc118/tasks/abc118_d
+TV Game — https://codeforces.com/problemset/problem/31/E
+Maximum Height by Stacking Cuboids — https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/
+Number of Ways of Cutting a Pizza — https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/description/
+Paint House III — https://leetcode.com/problems/paint-house-iii/description/
+Valid Permutations for DI Sequence — https://leetcode.com/problems/valid-permutations-for-di-sequence/description/

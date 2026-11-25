@@ -1,0 +1,69 @@
+Bitmask DP-
+
+Hamiltonian Flights — https://cses.fi/problemset/task/1690
+Shortest Path Visiting All Nodes — https://leetcode.com/problems/shortest-path-visiting-all-nodes/description/
+Traveling by Stagecoach — https://www.spoj.com/problems/TRSTAGE/
+A Simple Task — https://codeforces.com/problemset/problem/11/D
+Traveling Salesman among Aerial Cities — https://atcoder.jp/contests/abc180/tasks/abc180_e
+
+Digit DP-
+
+Digit Sum — https://atcoder.jp/contests/dp/tasks/dp_s
+Counting Numbers — https://cses.fi/problemset/task/2220
+Classy Numbers — https://codeforces.com/problemset/problem/1036/C
+Count of Integers — https://leetcode.com/problems/count-of-integers/description/
+Count Stepping Numbers in Range — https://leetcode.com/problems/count-stepping-numbers-in-range/description/
+
+Tree DP-
+
+Independent Set — https://atcoder.jp/contests/dp/tasks/dp_p
+Binary Tree Cameras — https://leetcode.com/problems/binary-tree-cameras/description/
+Distance in Tree — https://codeforces.com/problemset/problem/161/D
+Serval and Rooted Tree — https://codeforces.com/problemset/problem/1153/D
+Maximum Points After Collecting Coins From All Nodes — https://leetcode.com/problems/maximum-points-after-collecting-coins-from-all-nodes/description/
+
+Mixed-
+
+369 Numbers — https://www.spoj.com/problems/NUMTSN/
+Coincidence — https://atcoder.jp/contests/abc138/tasks/abc138_f
+Minimize the Total Price of the Trips — https://leetcode.com/problems/minimize-the-total-price-of-the-trips/description/
+Counting Tilings — https://cses.fi/problemset/task/2181
+Travelling Salesman and Special Numbers — https://codeforces.com/problemset/problem/914/C
+Stickers to Spell Word — https://leetcode.com/problems/stickers-to-spell-word/description/
+Count the Number of Powerful Integers — https://leetcode.com/problems/count-the-number-of-powerful-integers/description/
+Tree Distances II — https://cses.fi/problemset/task/1133
+Maximum Students Taking Exam — https://leetcode.com/problems/maximum-students-taking-exam/description/
+Team Building — https://codeforces.com/problemset/problem/1316/E
+Tree with Maximum Cost — https://codeforces.com/problemset/problem/1092/F
+Minimum XOR Sum of Two Arrays — https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/description/
+Passable Paths (hard version) — https://codeforces.com/problemset/problem/1702/G2
+Non-negative Integers without Consecutive Ones — https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/description/
+Rotate Columns - Hard — https://codeforces.com/problemset/problem/1209/E2
+Maximum White Subtree — https://codeforces.com/problemset/problem/1324/F
+Number of Beautiful Integers in the Range — https://leetcode.com/problems/number-of-beautiful-integers-in-the-range/description/
+Difference Between Maximum and Minimum Price Sum — https://leetcode.com/problems/difference-between-maximum-and-minimum-price-sum/description/
+Blood Cousins — https://codeforces.com/problemset/problem/208/E
+Number of Digit One — https://leetcode.com/problems/number-of-digit-one/description/
+Painting a Grid With Three Different Colors — https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/
+Find All Good Strings — https://leetcode.com/problems/find-all-good-strings/description/
+Sum Equals Xor — https://atcoder.jp/contests/abc129/tasks/abc129_e
+Magic Numbers — https://codeforces.com/problemset/problem/628/D
+Tree Distances I — https://cses.fi/problemset/task/1132
+Xor Distances — https://atcoder.jp/contests/abc201/tasks/abc201_e
+Matching — https://atcoder.jp/contests/dp/tasks/dp_o
+Numbers With Repeated Digits — https://leetcode.com/problems/numbers-with-repeated-digits/description/
+Book of Evil — https://codeforces.com/problemset/problem/337/D
+Subtree — https://atcoder.jp/contests/dp/tasks/dp_v
+Smallest Missing Genetic Value in Each Subtree — https://leetcode.com/problems/smallest-missing-genetic-value-in-each-subtree/description/
+Maximize Score After N Operations — https://leetcode.com/problems/maximize-score-after-n-operations/description/
+Ra-One Numbers — https://www.spoj.com/problems/RAONE/
+Elevator Rides — https://cses.fi/problemset/task/1653
+Choosing Capital for Treeland — https://codeforces.com/problemset/problem/219/D
+Grouping — https://atcoder.jp/contests/dp/tasks/dp_u
+Looking for Order — https://codeforces.com/problemset/problem/8/C
+Roman and Numbers — https://codeforces.com/problemset/problem/401/D
+Beautiful numbers — https://codeforces.com/problemset/problem/55/D
+Salazar Slytherin's Locket — https://codeforces.com/problemset/problem/855/E
+Number of Ways to Wear Different Hats to Each Other — https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/description/
+Smallest Sufficient Team — https://leetcode.com/problems/smallest-sufficient-team/description/
+Minimum Score After Removals on a Tree — https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/description/

@@ -1,0 +1,71 @@
+Advanced DSU-
+
+Lomsat gelral — https://codeforces.com/problemset/problem/600/E
+Blood Cousins — https://codeforces.com/problemset/problem/208/E
+Tree and Queries — https://codeforces.com/problemset/problem/375/D
+Arpa’s letter-marked tree and Mehrdad’s magic — https://codeforces.com/problemset/problem/741/D
+Bipartite Checking — https://codeforces.com/problemset/problem/813/F
+
+Articulation points & Bridges-
+
+Critical Connections in a Network — https://leetcode.com/problems/critical-connections-in-a-network/description/
+Tourist Reform — https://codeforces.com/problemset/problem/732/F
+Break Up — https://codeforces.com/problemset/problem/700/C
+Bertown roads — https://codeforces.com/problemset/problem/118/E
+We Need More Bosses — https://codeforces.com/problemset/problem/1000/E
+
+SCC-
+
+Checkposts — https://codeforces.com/problemset/problem/427/C
+Planets and Kingdoms — https://cses.fi/problemset/task/1683
+Flight Routes Check — https://cses.fi/problemset/task/1682
+Giant Pizza — https://cses.fi/problemset/task/1684
+Coin Collector — https://cses.fi/problemset/task/1686
+
+Flows-
+
+Police Chase — https://cses.fi/problemset/task/1695
+Distinct Routes — https://cses.fi/problemset/task/1711
+School Dance — https://cses.fi/problemset/task/1696
+Petya and Graph — https://codeforces.com/problemset/problem/1082/G
+Weapons — https://codeforces.com/problemset/problem/1045/A
+
+Mixed-
+
+Water Distribution — https://codeforces.com/problemset/problem/555/E
+Mocha and Diana (Hard Version) — https://codeforces.com/problemset/problem/1559/D2
+Qpwoeirut and The City — https://codeforces.com/problemset/problem/1706/E
+Bear and Fair Set — https://codeforces.com/problemset/problem/628/F
+Zebraness — https://atcoder.jp/contests/abc193/tasks/abc193_f
+Reachability from the Capital — https://codeforces.com/problemset/problem/999/E
+Dictation — https://codeforces.com/problemset/problem/132/E
+Mr. Kitayuta's Technology — https://codeforces.com/problemset/problem/505/D
+Simple Cycles Edges — https://codeforces.com/problemset/problem/962/F
+Graph and Queries — https://codeforces.com/problemset/problem/1416/D
+Edges in MST — https://codeforces.com/problemset/problem/160/D
+Mahmoud and a Dictionary — https://codeforces.com/problemset/problem/766/D
+Dynamic Connectivity — https://cses.fi/problemset/task/2133
+Machine Programming — https://codeforces.com/problemset/problem/164/C
+Capital City — https://www.spoj.com/problems/CAPCITY/
+Fairy — https://codeforces.com/problemset/problem/19/E
+Maximize Mex — https://codeforces.com/problemset/problem/1139/E
+Two Faced Edges — https://atcoder.jp/contests/arc092/tasks/arc092_d
+Harmonious Graph — https://codeforces.com/problemset/problem/1253/D
+Pursuit For Artifacts — https://codeforces.com/problemset/problem/652/E
+Rhezo and Destructive Mind — https://www.hackerearth.com/practice/algorithms/graphs/articulation-points-and-bridges/practice-problems/algorithm/rhezo-and-destructive-mind/
+Wizard's Tour — https://codeforces.com/problemset/problem/858/F
+Grid and Tokens — https://atcoder.jp/contests/abc205/tasks/abc205_f
+Card Game — https://codeforces.com/problemset/problem/808/F
+Checking Existence of Edge Length Limited Paths — https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/description/
+Biologist — https://codeforces.com/problemset/problem/311/E
+MUL — https://atcoder.jp/contests/arc085/tasks/arc085_c
+Plan of Lectures — https://codeforces.com/problemset/problem/1463/E
+Ralph and Mushrooms — https://codeforces.com/problemset/problem/894/E
+PROFIT — https://www.spoj.com/problems/PROFIT/
+Submerging Islands — https://www.spoj.com/problems/SUBMERGE/
+Museums Tour — https://codeforces.com/problemset/problem/1137/C
+Extending Set of Points — https://codeforces.com/problemset/problem/1140/F
+The Road to Berland is Paved With Good Intentions — https://codeforces.com/problemset/problem/228/E
+People on a Line — https://atcoder.jp/contests/abc087/tasks/arc090_b
+Cactus — https://codeforces.com/problemset/problem/231/E
+The Door Problem — https://codeforces.com/problemset/problem/776/D

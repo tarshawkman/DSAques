@@ -1,0 +1,164 @@
+MINIMAL-
+
+Day 1-
+
+Sudoku Solver — https://maang.in/problems/Sudoku-Solver-863
+Palindrome — https://maang.in/problems/Palindrome-572
+ONLYREP — https://maang.in/problems/ONLYREP-588
+Combination Sum I — https://maang.in/problems/Combination-Sum-I-868
+Combination Sum II — https://maang.in/problems/Combination-Sum-II-869
+
+Day 2-
+
+Hakuna Matata! — https://maang.in/problems/Hakuna-Matata--733
+Bilkul ricks nhi lena ka — https://maang.in/problems/Bilkul-ricks-nhi-lena-ka-810
+Bit Magic II — https://maang.in/problems/Bit-Magic-II-873
+WeekDay — https://maang.in/problems/WeekDay-636
+Moving Zeros — https://maang.in/problems/Moving-Zeros-597
+
+Day 3-
+
+COLORSORT — https://maang.in/problems/COLORSORT-630
+REVBIT — https://maang.in/problems/REVBIT-632
+SQUARE — https://maang.in/problems/SQUARE-629
+SWAPBIT — https://maang.in/problems/SWAPBIT-600
+CELEB — https://maang.in/problems/CELEB-594
+
+Day 4-
+
+STOI — https://maang.in/problems/STOI-604
+String Compression — https://maang.in/problems/String-Compression-595
+Buy and Sell Stock - 1 — https://maang.in/problems/Buy-and-Sell-Stock-1-175
+Buy and Sell Stock - 2 — https://maang.in/problems/Buy-and-Sell-Stock-2-277
+Finish in Time — https://maang.in/problems/Finish-in-Time-611
+
+Day 5-
+
+String Compare — https://maang.in/problems/String-Compare-640
+Nearly Sorted Arrays — https://maang.in/problems/Nearly-Sorted-Arrays-605
+Longest Palindromic Substring - Easy Version — https://maang.in/problems/Longest-Palindromic-Substring-Easy-Version-964
+KTHELE — https://maang.in/problems/KTHELE-554
+
+STANDARD-
+
+Day 6-
+
+Non Consecutive Sum — https://maang.in/problems/Non-Consecutive-Sum-601
+Stone Jumps — https://maang.in/problems/Stone-Jumps-616
+Buy and Sell Stock - 3 — https://maang.in/problems/Buy-and-Sell-Stock-3-278
+Buy and Sell Stock - 4 — https://maang.in/problems/Buy-and-Sell-Stock-4-279
+Tallest Stack — https://maang.in/problems/Tallest-Stack-599
+
+Day 7-
+
+Largest Rectangle — https://maang.in/problems/Largest-Rectangle-461
+Rain Water — https://maang.in/problems/Rain-Water-462
+Message Decoding — https://maang.in/problems/Message-Decoding-351
+Android Unlock Pattern — https://maang.in/problems/Android-Unlock-Pattern-486
+Josephus Problem — https://maang.in/problems/Josephus-Problem-586
+
+Day 8-
+
+Next Permutation — https://maang.in/problems/Next-Permutation-593
+TWOREP — https://maang.in/problems/TWOREP-590
+Quickselect — https://maang.in/problems/Quickselect-541
+Grid Queries — https://maang.in/problems/Grid-Queries-587
+Matrix Rotation — https://maang.in/problems/Matrix-Rotation-610
+
+Day 9-
+
+BLAWHI — https://maang.in/problems/BLAWHI-603
+Super Frequent Number — https://maang.in/problems/Super-Frequent-Number-591
+KSUM — https://maang.in/problems/KSUM-596
+Minimum Platforms — https://maang.in/problems/Minimum-Platforms-612
+Max Vials — https://maang.in/problems/Max-Vials-608
+
+Day 10-
+
+MATMED — https://maang.in/problems/MATMED-592
+ONEZERO — https://maang.in/problems/ONEZERO-642
+INTBREAK — https://maang.in/problems/INTBREAK-631
+Maximum Sum in Grid — https://maang.in/problems/Maximum-Sum-in-Grid-496
+Non Zero Digit — https://maang.in/problems/Non-Zero-Digit-870
+
+Day 11-
+
+Big Factorial — https://maang.in/problems/Big-Factorial-860
+Snakes and Ladders — https://maang.in/problems/Snakes-and-Ladders-927
+Minimum Swaps Palindrome — https://maang.in/problems/Minimum-Swaps-Palindrome-990
+Word Break — https://maang.in/problems/Word-Break-991
+
+Day 12-
+
+Maximum Product Subarray — https://maang.in/problems/Maximum-Product-Subarray-953
+Awesome — https://maang.in/problems/Awesome-981
+Entropy — https://maang.in/problems/Entropy-967
+Binary Palindrome — https://maang.in/problems/Binary-Palindrome-984
+Hard Division — https://maang.in/problems/Hard-Division-954
+
+Day 13-
+
+Subset Sum Queries — https://maang.in/problems/Subset-Sum-Queries-760
+Scrambled String — https://maang.in/problems/Scrambled-String-909
+Longest Common Substring — https://maang.in/problems/Longest-Common-Substring-910
+LCS of 3 Strings — https://maang.in/problems/LCS-of-3-Strings-911
+Make Palindrome — https://maang.in/problems/Make-Palindrome-915
+Shortest Common Supersequence — https://maang.in/problems/Shortest-Common-Supersequence-914
+
+ACHIEVER-
+
+Day 14-
+
+SLICES-I — https://maang.in/problems/SLICESI-633
+SLICES-II — https://maang.in/problems/SLICESII-634
+Infected People — https://maang.in/problems/Infected-People-589
+Interleaved Strings — https://maang.in/problems/Interleaved-Strings-602
+Consecutive Numbers — https://maang.in/problems/Consecutive-Numbers-609
+
+Day 15-
+
+KWALK — https://maang.in/problems/KWALK-607
+Course Scheduling — https://maang.in/problems/Course-Scheduling-637
+Building the Sum — https://maang.in/problems/Building-the-Sum-635
+Longest Consecutive Sequence — https://maang.in/problems/Longest-Consecutive-Sequence-613
+COUNTBIT — https://maang.in/problems/COUNTBIT-639
+
+Day 16-
+
+GRAPHADJ — https://maang.in/problems/GRAPHADJ-606
+Egg Drop — https://maang.in/problems/Egg-Drop-622
+Rock Paper Scissor — https://maang.in/problems/Rock-Paper-Scissor-913
+Skyline — https://maang.in/problems/Skyline-966
+K Lists Range — https://maang.in/problems/K-Lists-Range-965
+
+Day 17-
+
+Word Boggle — https://maang.in/problems/Word-Boggle-992
+Bubbles — https://maang.in/problems/Bubbles-975
+Swaps and Permutation — https://maang.in/problems/Swaps-and-Permutation-995
+Mother Vertex — https://maang.in/problems/Mother-Vertex-996
+The Witcher II — https://maang.in/problems/The-Witcher-II-925
+
+Day 18-
+
+Weighted Job Scheduling — https://maang.in/problems/Weighted-Job-Scheduling-906
+Count LIS — https://maang.in/problems/Count-LIS-919
+Mountain Array II — https://maang.in/problems/Mountain-Array-II-917
+Matrix Rank Transform — https://maang.in/problems/Matrix-Rank-Transform-998
+Merge Elements 3 — https://maang.in/problems/Merge-Elements-3-974
+
+Day 19-
+
+Balance — https://maang.in/problems/Balance-979
+Array Queries — https://maang.in/problems/Array-Queries-563
+One Piece — https://maang.in/problems/One-Piece-902
+Shortest Transformation Sequences — https://maang.in/problems/Shortest-Transformation-Sequences-997
+
+Day 20-
+
+Longest Palindromic Substring - Hard Version — https://maang.in/problems/Longest-Palindromic-Substring-Hard-Version-337
+Distinct Subsequences III — https://maang.in/problems/Distinct-Subsequences-III-916
+Inverse Pairs Permutation — https://maang.in/problems/Inverse-Pairs-Permutation-922
+Uncommon Subsequences — https://maang.in/problems/Uncommon-Subsequences-920
+Sum Partition — https://maang.in/problems/Sum-Partition-921
+The Witcher — https://maang.in/problems/The-Witcher-923
